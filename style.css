@@ -1,0 +1,54 @@
+
+#header{
+    background-color: black;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 50px;
+    width: 100%;
+    color:white;
+    font-size: 35px;
+}
+#instruct{
+    margin-left: 900px;
+}
+#banner{
+    width: 100%;
+    
+}
+#play{
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#status{
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 10px;
+}
+#footer{
+    position: fixed;
+    bottom: 0px;
+    height: 30px;
+    background-color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+video{
+    background-image:url(game_console.png);
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instructionImage{
+    width: 45%;
+    display: inline-block;
+    
+}
+#tittle{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    font-size: 20px;
+}
